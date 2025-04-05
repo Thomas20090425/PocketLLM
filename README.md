@@ -23,7 +23,7 @@
 | iPhone 14 Pro | 6GB | Y | 3b |
 | iPhone 12 Pro | 6GB | Y | 3b |
 | iPad Pro M2 | 8GB | Y | 3b |
-| iPhone 12 mini | 4GB | N - Crash Upon Load` | 3b |
+| iPhone 12 mini | 4GB | N - Crash Upon Load | 3b |
 | iPhone 12 mini | 4GB | Y | 1b |
 
 # Important info:
