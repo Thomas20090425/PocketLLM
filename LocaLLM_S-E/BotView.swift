@@ -23,7 +23,7 @@ struct BotView: View {
     
     var body: some View {
         VStack(alignment: .leading) {
-            Text("Pocket LLM (Marihack Demo)\nMade by: Yuecheng (Thomas) Ma, Ricardo He Chen & William")
+            Text("Pocket LLM (Marihack Demo)\nMade by: Yuecheng (Thomas) Ma, Ricardo He Chen & Jingning Qiao")
                 .font(.headline)
                 .multilineTextAlignment(.center)
                 .padding(.bottom, 8)
