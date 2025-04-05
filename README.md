@@ -32,6 +32,13 @@
 | iPhone 12 mini | 4GB | N - Crash Upon Load | 3b |
 | iPhone 12 mini | 4GB | Y | 1b |
 
+# Demo
+
+[![Watch on YouTube](https://img.youtube.com/vi/OZ6jvZ_Ho2Q/0.jpg)](https://youtube.com/shorts/OZ6jvZ_Ho2Q?si=7xORk9T0FPIIlxGL)
+
+# Presentation:
+[![View the presentation](https://img.shields.io/badge/Google%20Slides-Click%20to%20View-yellow?logo=google-slides&style=for-the-badge)](https://docs.google.com/presentation/d/1PVWH0pGk-FF5WLubplM4wns0RyuA0iRdNcmJEgdtgJE/edit?usp=sharing)
+
 # Important info:
 - We suggest 3b model (≈2GB in file size) for devices with 6GB ram or above, or 1b (≈900MB in file size) models for 3Gb to 4GB ram models.
 - WE DO NOT SUPPORT devices with less than 3GB of ram.
