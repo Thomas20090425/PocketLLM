@@ -9,6 +9,12 @@
 - add the file to /LocaLLM_S-E
 
 ### Importing the Runtime:
+- The AI runtime we are using can be downloaded from my other forked repo.
+  ```
+  https://github.com/Thomas20090425/PocketLLM-RT
+  ```
+- In Xcode, go to `File` - `Add Package Dependencies` - `Search or Enter Package URL` - `Add Package` - `Add Anyway`
+- Build!
 
 # Next Steps:
 - The AI model should not be loaded upon start up / The AI model should load 1b if a device have ≤ 4GB of ram to prevent from crashing upon start.
